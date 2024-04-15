@@ -9,4 +9,4 @@ Job satisfaction is a big factor in employee engagement and the level of discret
 ## Tools 
  Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Scikit-Learn, Feature-Engine and  Streamlit.
 
-## [Link Deploy](https://huggingface.co/spaces/betarac/Employee_Satisfied))
+## [Link Deploy](https://huggingface.co/spaces/betarac/Employee_Satisfied)
